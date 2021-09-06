@@ -4,3 +4,6 @@ In the spirit of practicing programming problems for interviews (and to make sur
 The goal is to do at least one two-part problem a day 🎯
 
 All problems will be done in JavaScript.
+
+### Highlights
+- Day 7
